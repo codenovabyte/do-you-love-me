@@ -82,12 +82,3 @@ body{
     font-size:40px;
     color:#ff4d6d;
 }
-.credit{
-    position: fixed;
-    bottom: 5px;
-    right: 8px;
-    font-size: 8px;
-    color: #999;
-    opacity: 0.5;
-    font-family: "Poppins", sans-serif;
-}
